@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jspclass/WebContent/randmutilies.jsp&apos; to &apos;rand1.jsp&apos;" description="Rename resource &apos;randmutilies.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/randmutilies.jsp" name="rand1.jsp" stamp="1570863613871" updateReferences="true"/>
+</session>

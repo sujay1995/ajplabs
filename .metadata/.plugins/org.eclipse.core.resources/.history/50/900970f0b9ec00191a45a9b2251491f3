@@ -1,0 +1,39 @@
+
+
+ 
+
+ 
+
+Sent from Mail for Windows 10
+
+ 
+From: Chandramouli G <chandramouliganesh97@gmail.com>
+Sent: Saturday, October 12, 2019 11:49:51 AM
+To: manvantara_hegde@outlook.com <manvantara_hegde@outlook.com>
+Subject:
+ 
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Examaple</title>
+</head>
+<body>
+<form action="result.jsp">
+<center><h1>Maths Example Of JSP</h1></center>
+<h2>
+<input type="radio" name="add" value="Add">Add
+<input type="radio" name="sub" value="Subtract">Subtract
+<input type="radio" name="mul" value="Multiply">Multiply
+<input type="radio" name="div" value="Divide">Divide
+<br>
+<h3>Input two numbers</h3>
+<br>
+Num 1: <input type="text" name="no1" >
+<br>Num 2: <input type="text" name="no2" >
+<br><input type="submit" value="Submit" name="Submit">
+</h2>
+</form>
+</body>
+</html>
+

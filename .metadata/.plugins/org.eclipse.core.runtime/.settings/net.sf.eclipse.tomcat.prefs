@@ -1,0 +1,7 @@
+computeSourcePath=true
+contextsDir=/home/sjh/Downloads/Tomcat/apache-tomcat-9.0.24/conf/Catalina/localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+tomcatConfigFile=/home/sjh/Downloads/Tomcat/apache-tomcat-9.0.24/conf/server.xml
+tomcatDir=/home/sjh/Downloads/Tomcat/apache-tomcat-9.0.24
+tomcatVersion=tomcatV9
